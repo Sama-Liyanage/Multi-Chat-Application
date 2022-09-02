@@ -21,3 +21,5 @@ System Requirements
 - The messages can contain text, Unicode characters, emojis, and images.
 - The chat interface can be minimized until it is needed to avoid disturbancesto the work of the
    users.
+   
+![preview](https://user-images.githubusercontent.com/90316951/188206995-a8807816-7857-4676-9d59-6900a8bfe305.png)
